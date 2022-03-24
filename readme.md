@@ -1,7 +1,7 @@
 # DIGITAL HOUSE - CURSO DESARROLLADOR WEB FULL STACK - 0222CDFSNCN10LAED
 
 
-## Profes: el profe
+## Profes: otro edit de profe
 
 - Coordinador: Matías Risso Patrón
 - 
