@@ -4,7 +4,7 @@
 ## Profes:
 
 - Coordinador: Matías Risso Patrón
-- José Antonio Gónzalez
+- Titular: José Antonio Gónzalez
 - Adjunto: Franco Spinelli
 
 
